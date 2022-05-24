@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringAuthentificationApplication<spring-authentification>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.example.springauthentification.SpringAuthentificationApplication",
+            "projectName": "spring-authentification",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

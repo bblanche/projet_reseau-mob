@@ -20,7 +20,7 @@ import org.springframework.security.oauth2.core.user.OAuth2User;
 
 import com.auth0.jwt.JWT;
 import com.auth0.jwt.algorithms.Algorithm;
-import com.openclassrooms.springsecurityauth.Entities.User;
+
 
 
 @RestController
